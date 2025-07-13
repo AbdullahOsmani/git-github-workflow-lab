@@ -34,7 +34,7 @@
   git commit -m "Add initial lab report"
   git push origin add-lab-report
   ```
-![alt text](https://raw.githubusercontent.com/USERNAME/REPO/main/path/to/image.png)
+![alt text](https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/branch-commit.png)
 
 
 ## 🔁 Pull Request
