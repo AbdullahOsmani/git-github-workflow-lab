@@ -34,8 +34,6 @@
   git commit -m "Add initial lab report"
   git push origin add-lab-report
   ```
-📸 Screenshot:  
-[🔗 View Project Board](https://github.com/AbdullahOsmani/git-github-workflow-lab/projects)
 
 
 ## 🔁 Pull Request
