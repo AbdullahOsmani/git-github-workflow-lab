@@ -34,7 +34,8 @@
   git commit -m "Add initial lab report"
   git push origin add-lab-report
   ```
-
+📸 Screenshot:
+https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/branch-commit.png
 ---
 
 ## 🔁 Pull Request
@@ -43,7 +44,7 @@
 * ✅ Reviewed and merged the pull request through the GitHub UI
 
 📸 Screenshot:
-![Pull Request](./)
+![Pull Request](./https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/pull-request.png)
 
 ---
 
@@ -58,7 +59,7 @@
 * ✅ Closed issues after completing tasks
 
 📸 Screenshot:
-![Issues](./)
+![Issues](./https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/issue.png)
 
 ---
 
@@ -69,7 +70,7 @@
 * ✅ Moved tasks across **To do → In progress → Done**
 
 📸 Screenshot:
-![Project Board](./)
+![Project Board](./https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/project-board.png)
 
 ---
 
@@ -79,7 +80,7 @@
 * ✅ Summarized key steps taken during the lab
 
 📸 Screenshot:
-![Wiki Page](./)
+![Wiki Page](./https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/wiki-page.png)
 
 ---
 
