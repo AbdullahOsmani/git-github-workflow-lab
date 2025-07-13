@@ -34,7 +34,9 @@
   git commit -m "Add initial lab report"
   git push origin add-lab-report
   ```
-![branch-commit](https://raw.githubusercontent.com/AbdullahOsmani/git-github-workflow-lab/main/screenshots/branch-commit.png)
+📸 Screenshot:  
+![Pull Request](https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/branch-commit.png)
+
 
 
 ## 🔁 Pull Request
@@ -42,8 +44,7 @@
 * ✅ Opened a pull request from `add-lab-report` to `main`
 * ✅ Reviewed and merged the pull request through the GitHub UI
 
-📸 Screenshot:
-![Pull Request](./https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/pull-request.png)
+
 
 ---
 
@@ -57,8 +58,7 @@
 * ✅ Assigned labels (`bug`, `enhancement`)
 * ✅ Closed issues after completing tasks
 
-📸 Screenshot:
-![Issues](./https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/issue.png)
+
 
 ---
 
@@ -68,8 +68,6 @@
 * ✅ Added issues and note cards as tasks
 * ✅ Moved tasks across **To do → In progress → Done**
 
-📸 Screenshot:
-![Project Board](./https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/project-board.png)
 
 ---
 
@@ -78,8 +76,7 @@
 * ✅ Created a wiki page titled `Workflow Lab`
 * ✅ Summarized key steps taken during the lab
 
-📸 Screenshot:
-![Wiki Page](./https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/wiki-page.png)
+
 
 ---
 
@@ -117,12 +114,5 @@
 
 This is my third lab in the DevOps portfolio, demonstrating GitHub collaboration workflows used by real teams.
 
-# Lab Report Test
-
-📎 **Link Test**  
-[Open branch-commit image file](https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/branch-commit.png)
-
-🖼️ **Image Display Test**  
-![branch-commit](https://raw.githubusercontent.com/AbdullahOsmani/git-github-workflow-lab/main/screenshots/branch-commit.png)
 
 
