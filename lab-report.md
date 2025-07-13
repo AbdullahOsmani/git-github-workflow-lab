@@ -117,5 +117,12 @@
 
 This is my third lab in the DevOps portfolio, demonstrating GitHub collaboration workflows used by real teams.
 
+# Lab Report Test
+
+📎 **Link Test**  
+[Open branch-commit image file](https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/branch-commit.png)
+
+🖼️ **Image Display Test**  
+![branch-commit](https://raw.githubusercontent.com/AbdullahOsmani/git-github-workflow-lab/main/screenshots/branch-commit.png)
 
 
