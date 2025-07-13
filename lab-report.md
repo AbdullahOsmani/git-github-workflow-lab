@@ -35,8 +35,7 @@
   git push origin add-lab-report
   ```
 📸 Screenshot:  
-![Pull Request](https://github.com/AbdullahOsmani/git-github-workflow-lab/blob/main/screenshots/branch-commit.png)
-
+[🔗 View Project Board](https://github.com/AbdullahOsmani/git-github-workflow-lab/projects)
 
 
 ## 🔁 Pull Request
